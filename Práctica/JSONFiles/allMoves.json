@@ -1,0 +1,21 @@
+[{
+        "date": "25/10/2020",
+        "concept": "Ingreso Sueldo",
+        "amount": 1265.32
+    },
+    {
+        "date": "25/09/2020",
+        "concept": "Ingreso Sueldo",
+        "amount": 1095.32
+    },
+    {
+        "date": "10/09/2020",
+        "concept": "Retirada de la Cuenta",
+        "amount": 50.00
+    },
+    {
+        "date": "10/08/2020",
+        "concept": "Retirada de la Cuenta",
+        "amount": 1505.62
+    }
+]
